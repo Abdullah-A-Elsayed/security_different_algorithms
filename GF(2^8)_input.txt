@@ -1,0 +1,17 @@
+FF 03
+
+Output
+00 01
+
+Input
+The input consists of 1 line that has 2 numbers
+each of which consists of 2 Hex digits that represent the 2 given numbers
+
+Output
+In a single line print 2 numbers in Hex format(All characters must be capital),
+the first one should be the result of the addition of the given 2 numbers
+the second is the result of multiplying them.
+These operations should be done in GF(28) with m(x) = x8 + x4 + x3 + x + 1.
+
+
+

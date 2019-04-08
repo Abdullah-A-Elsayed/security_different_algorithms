@@ -1,0 +1,5 @@
+15 27
+
+Output -> Greatest common Divisor
+
+3

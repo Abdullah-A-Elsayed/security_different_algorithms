@@ -1,0 +1,12 @@
+3 2
+
+Input
+Mod Number
+The input consists of 1 line that has 2 numbers M, N respectively
+
+Output
+1 2
+additive_inv mul_inv
+In case N has no multiplicative inverse, print "IMPOSSIBLE" without the quotes.
+Otherwise print 2 numbers which represent the additive and multiplicative inverses respectively of N.
+All printed numbers must be mod(M)

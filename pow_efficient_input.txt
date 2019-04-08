@@ -1,0 +1,17 @@
+2 3 100
+
+Output
+4
+
+Calculate a^b mod c. (1 ≤ a, c ≤ 2000000000). (1 ≤ b ≤ 2000000000000000)
+
+
+Input
+The input consists of a single line that has the 3 numbers a,b & c respectively.
+
+Output
+The output should consist of a single number, the result of the operation ab mod c.
+
+
+
+
